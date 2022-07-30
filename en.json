@@ -1,0 +1,15 @@
+{
+  "Description": "Use this to create your own plugin", 
+  "Name": "Stream Deck Template", 
+  "Category": "Templates", 
+  "se.gazab.alertmanager.action": {
+    "Name": "Alertmanager", 
+    "Tooltip": "Shows number of firing alert"
+  },
+  "Localization": {
+    "More info": "More info",
+    "Message": "Message",
+    "Click Me": "Click Me",
+    "Button": "Button"
+  }
+}
